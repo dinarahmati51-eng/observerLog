@@ -148,5 +148,5 @@ The project uses classes and inheritance to represent different types of astrono
 
 
 
-Student Project
+Dina Rahmati
 
